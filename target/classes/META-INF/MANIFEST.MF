@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: wpattern-mutrack-simple
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Lucas Gabriel
+Implementation-Vendor-Id: org.wpattern
+Build-Jdk: 1.8.0_181
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
